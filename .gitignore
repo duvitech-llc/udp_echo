@@ -1,0 +1,99 @@
+# Binaries
+udp_client
+udp_echo_server
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Shared objects (inc. Windows/DLL)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+*.cmake
+
+# GStreamer cache files
+.cache
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.swn
+*.bak
+*.old
+*.orig
+*.rej
+
+# Build directories
+/build/
+out/
+
+# User-specific files
+*.user
+*.user.*
+.idea/
+*.VC.db
+.vscode/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.cbp
+*.workspace
+*.cproject
+*.project
+*.idea/
+*.vscode/
+*.vs/
+*.suo
+*.ncb
+*.opt
+*.plg
+
+# Dependency directories
+node_modules/
+dist/
+
